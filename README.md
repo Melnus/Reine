@@ -12,3 +12,4 @@ booth
 https://melnus.booth.pm/items/1625895
 
 11/04/2019 added eye bone model ( fbx vrm(053) )
+12/22/2019 added jaw bone(Painted very thinly) and eye skin param changed a few.
