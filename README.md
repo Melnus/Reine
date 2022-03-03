@@ -1,5 +1,5 @@
 # Reine-VRM-Model#  
-<br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="CC" title="CCBYNCSA">
+<br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="CC" title="CCBY">
 <br><img src="https://github.com/Melnus/Reine-VRM-Model/blob/master/png/20191018-163521.png" alt="CC" title="1">
 <br><img src="https://github.com/Melnus/Reine-VRM-Model/blob/master/png/aaa.png" alt="CC" title="2">
 seed
@@ -13,3 +13,4 @@ https://melnus.booth.pm/items/1625895
 
 <br>11/04/2019 added eye bone model ( fbx vrm(053) )
 <br>12/22/2019 added jaw bone(Painted very thinly) and eye skin param changed a few.
+<br>07/25/2021　CCBYNCSA -> CCBY
